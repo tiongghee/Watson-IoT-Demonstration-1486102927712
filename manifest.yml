@@ -11,4 +11,3 @@ applications:
   - Watson IoT Demonstration-iotf-service
   env:
   NODE_MODULES_CACHE: false
-
