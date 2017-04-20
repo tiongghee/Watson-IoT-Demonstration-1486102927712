@@ -9,3 +9,6 @@ applications:
   services:
   - Watson IoT Demonstration-cloudantNoSQLDB
   - Watson IoT Demonstration-iotf-service
+  env:
+  NODE_MODULES_CACHE: false
+
